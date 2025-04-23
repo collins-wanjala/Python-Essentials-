@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Collins wanjalais a proficient Enginner  mastered I.T infratsructure,telecommunication,system administration 
 and has 3 years of experience  worked with 
+=======
+Collins wanjalais a proficient Enginner  mastered I.T infratsructure,telecommunication
+and has3 years of experience  worked with 
+>>>>>>> 13a6b5f41ba2e5c7eff5132b39a1d1adce33538e
 Liquid telecom,Nars Technical services,ETNs ,currently with Kenya Revenue Authority
