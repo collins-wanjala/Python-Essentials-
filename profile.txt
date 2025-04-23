@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 Collins wanjala is a proficient Enginner  mastered I.T infratsructure,telecommunication,system administration 
 and has 3 years of experience  worked with 
 Liquid telecom,Nars Technical services,ETNs ,currently with Kenya Revenue Authority as ICT officer.
 
 Thank you so much, feel free to interact with me
+=======
+<<<<<<< HEAD
+Collins wanjalais a proficient Enginner  mastered I.T infratsructure,telecommunication,system administration 
+and has 3 years of experience  worked with 
+=======
+Collins wanjalais a proficient Enginner  mastered I.T infratsructure,telecommunication
+and has3 years of experience  worked with 
+>>>>>>> 13a6b5f41ba2e5c7eff5132b39a1d1adce33538e
+Liquid telecom,Nars Technical services,ETNs ,currently with Kenya Revenue Authority
+>>>>>>> f6c78c7397bb26563e99801aa74755d0598d2ebf
