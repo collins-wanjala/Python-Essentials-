@@ -1,6 +1,10 @@
 #Python functions
 
 '''
+Fuctions are used to performspecific tasks as deigned.
+   types offunctions:
+  Bult-in functions
+  Derived functions
 Think of a function as a little named container for a group of your code!
 
 To run the code in a function, you must call the function.

@@ -1,5 +1,5 @@
 #Using python to manipulate lists
-
+LISTS ARE MUTABLE(can be changed )
 '''
 Python knows a number of compound data types, 
 used to group together other values. The most
